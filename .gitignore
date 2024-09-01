@@ -1,0 +1,22 @@
+# Python
+*.pyc
+*.pyo
+*.pyd
+__pycache__/
+*.db
+*.sqlite
+
+# Virtual environment
+venv/
+ENV/
+env/
+
+# Jupyter Notebook
+.ipynb_checkpoints
+
+# Logs
+*.log
+
+# Miscellaneous
+*.swp
+.DS_Store
